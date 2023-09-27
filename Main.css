@@ -14,8 +14,10 @@
     padding: 2px;
 }
 
+
 .text-div {
     flex: 3;
+    padding: 6px;
 }
 
 .image-div {
