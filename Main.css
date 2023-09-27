@@ -27,3 +27,9 @@
     width: 100%;
     height: auto
 }
+
+.about-details {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #0B0C10;
+}
