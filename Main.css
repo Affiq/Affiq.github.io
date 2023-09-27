@@ -4,6 +4,7 @@
 
 .desc {
     display: flex;
+    padding: 2px;
 }
 
 .text-div {
