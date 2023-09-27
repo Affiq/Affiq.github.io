@@ -8,7 +8,6 @@
 
 .text-div {
     flex: 1;
-    border: 2px solid yellow;
 }
 
 .image-div {
@@ -16,5 +15,7 @@
 }
 
 .thumbnail {
-    object-fit: cover
+    object-fit: cover;
+    width: 100%;
+    height: auto
 }
